@@ -1,18 +1,18 @@
-# 🤖 CIFAR-10 Image Classifier
+#  CIFAR-10 Image Classifier
 
 This project demonstrates my skills in **deep learning** and **computer vision**.  
 It uses a pre-trained **Convolutional Neural Network (CNN)** to classify images from the [CIFAR-10 dataset](https://www.cs.toronto.edu/~kriz/cifar.html) — a standard benchmark for image recognition.
 
 ---
 
-## 🎯 Project Goal
+##  Project Goal
 
 To build and test an image classification model capable of recognizing objects such as:
-🚗 Car, ✈️ Airplane, 🐱 Cat, 🐶 Dog, 🛳️ Ship, 🐸 Frog, etc.
+ Car,  Airplane,  Cat,  Dog,  Ship,  Frog, etc.
 
 ---
 
-## 🧠 What the Program Does
+##  What the Program Does
 
 1. Loads the **CIFAR-10 dataset** and visualizes sample images.  
 2. Preprocesses the data by scaling pixel values (normalization).  
@@ -22,17 +22,17 @@ To build and test an image classification model capable of recognizing objects s
 
 ---
 
-## 🔍 Key Features
+##  Key Features
 
-- 🧩 Uses a **Convolutional Neural Network (CNN)** for image classification  
-- 🖼️ Visualizes 16 random CIFAR-10 samples with class labels  
-- 🔢 Preprocesses and normalizes input data  
-- 🧠 Predicts the class of custom images (e.g., `car.jpg`)  
-- 💾 Loads and evaluates a pre-trained model
+-  Uses a **Convolutional Neural Network (CNN)** for image classification  
+-  Visualizes 16 random CIFAR-10 samples with class labels  
+-  Preprocesses and normalizes input data  
+-  Predicts the class of custom images (e.g., `car.jpg`)  
+-  Loads and evaluates a pre-trained model
 
 ---
 
-## 🧰 Technologies Used
+##  Technologies Used
 
 | Category | Tools |
 |-----------|-------|
@@ -44,7 +44,7 @@ To build and test an image classification model capable of recognizing objects s
 
 ---
 
-## 🚀 What I Learned
+##  What I Learned
 
 Through this project, I gained experience in:
 - Working with **image datasets** and preprocessing  
@@ -57,7 +57,7 @@ This project highlights my understanding of **deep learning pipelines** and **pr
 
 ---
 
-## 🧩 Dataset Reference
+##  Dataset Reference
 
 CIFAR-10 Dataset —  
 Krizhevsky, A., & Hinton, G. (2009). *Learning Multiple Layers of Features from Tiny Images*  
